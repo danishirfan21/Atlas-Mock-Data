@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "action": "published",
+    "author": "Sarah Chen",
+    "authorInitials": "SC",
+    "documentTitle": "API Integration Guidelines",
+    "documentId": 1,
+    "timestamp": "2025-12-30T01:37:17.000Z"
+  },
+  {
+    "id": 2,
+    "action": "updated",
+    "author": "Sarah Chen",
+    "authorInitials": "SC",
+    "documentTitle": "API Integration Guidelines",
+    "documentId": 1,
+    "timestamp": "2025-12-29T22:37:17.000Z"
+  },
+  {
+    "id": 3,
+    "action": "created",
+    "author": "Marcus Rivera",
+    "authorInitials": "MR",
+    "documentTitle": "Q4 Product Roadmap Research",
+    "documentId": 2,
+    "timestamp": "2025-12-29T22:37:17.000Z"
+  },
+  {
+    "id": 4,
+    "action": "updated",
+    "author": "Marcus Rivera",
+    "authorInitials": "MR",
+    "documentTitle": "Q4 Product Roadmap Research",
+    "documentId": 2,
+    "timestamp": "2025-12-29T19:37:17.000Z"
+  },
+  {
+    "id": 5,
+    "action": "created",
+    "author": "Alex Morgan",
+    "authorInitials": "AM",
+    "documentTitle": "User Research Synthesis - Mobile App",
+    "documentId": 3,
+    "timestamp": "2025-12-29T03:37:17.000Z"
+  },
+  {
+    "id": 6,
+    "action": "updated",
+    "author": "Alex Morgan",
+    "authorInitials": "AM",
+    "documentTitle": "User Research Synthesis - Mobile App",
+    "documentId": 3,
+    "timestamp": "2025-12-29T00:37:17.000Z"
+  },
+  {
+    "id": 7,
+    "action": "published",
+    "author": "David Park",
+    "authorInitials": "DP",
+    "documentTitle": "Security Best Practices 2025",
+    "documentId": 4,
+    "timestamp": "2025-12-28T03:37:17.000Z"
+  },
+  {
+    "id": 8,
+    "action": "updated",
+    "author": "David Park",
+    "authorInitials": "DP",
+    "documentTitle": "Security Best Practices 2025",
+    "documentId": 4,
+    "timestamp": "2025-12-28T00:37:17.000Z"
+  },
+  {
+    "id": 9,
+    "action": "published",
+    "author": "Emma Wilson",
+    "authorInitials": "EW",
+    "documentTitle": "Design System Documentation",
+    "documentId": 5,
+    "timestamp": "2025-12-27T03:37:17.000Z"
+  },
+  {
+    "id": 10,
+    "action": "updated",
+    "author": "Emma Wilson",
+    "authorInitials": "EW",
+    "documentTitle": "Design System Documentation",
+    "documentId": 5,
+    "timestamp": "2025-12-27T00:37:17.000Z"
+  },
+  {
+    "id": 11,
+    "action": "created",
+    "author": "Rachel Kim",
+    "authorInitials": "RK",
+    "documentTitle": "Customer Feedback Analysis - Dec 2024",
+    "documentId": 6,
+    "timestamp": "2025-12-26T03:37:17.000Z"
+  },
+  {
+    "id": 12,
+    "action": "updated",
+    "author": "Rachel Kim",
+    "authorInitials": "RK",
+    "documentTitle": "Customer Feedback Analysis - Dec 2024",
+    "documentId": 6,
+    "timestamp": "2025-12-26T00:37:17.000Z"
+  },
+  {
+    "id": 13,
+    "action": "published",
+    "author": "Sarah Chen",
+    "authorInitials": "SC",
+    "documentTitle": "Engineering Onboarding Guide",
+    "documentId": 7,
+    "timestamp": "2025-12-25T03:37:17.000Z"
+  },
+  {
+    "id": 14,
+    "action": "updated",
+    "author": "Sarah Chen",
+    "authorInitials": "SC",
+    "documentTitle": "Engineering Onboarding Guide",
+    "documentId": 7,
+    "timestamp": "2025-12-25T00:37:17.000Z"
+  },
+  {
+    "id": 15,
+    "action": "published",
+    "author": "Marcus Rivera",
+    "authorInitials": "MR",
+    "documentTitle": "Sprint Planning Process",
+    "documentId": 8,
+    "timestamp": "2025-12-24T03:37:17.000Z"
+  },
+  {
+    "id": 16,
+    "action": "updated",
+    "author": "Marcus Rivera",
+    "authorInitials": "MR",
+    "documentTitle": "Sprint Planning Process",
+    "documentId": 8,
+    "timestamp": "2025-12-24T00:37:17.000Z"
+  },
+  {
+    "id": 17,
+    "action": "published",
+    "author": "David Park",
+    "authorInitials": "DP",
+    "documentTitle": "Code Review Guidelines",
+    "documentId": 9,
+    "timestamp": "2025-12-23T03:37:17.000Z"
+  },
+  {
+    "id": 18,
+    "action": "updated",
+    "author": "David Park",
+    "authorInitials": "DP",
+    "documentTitle": "Code Review Guidelines",
+    "documentId": 9,
+    "timestamp": "2025-12-23T00:37:17.000Z"
+  },
+  {
+    "id": 19,
+    "action": "created",
+    "author": "Emma Wilson",
+    "authorInitials": "EW",
+    "documentTitle": "Brand Guidelines 2025",
+    "documentId": 10,
+    "timestamp": "2025-12-22T03:37:17.000Z"
+  },
+  {
+    "id": 20,
+    "action": "updated",
+    "author": "Emma Wilson",
+    "authorInitials": "EW",
+    "documentTitle": "Brand Guidelines 2025",
+    "documentId": 10,
+    "timestamp": "2025-12-22T00:37:17.000Z"
+  },
+  {
+    "id": 21,
+    "action": "created",
+    "author": "Rachel Kim",
+    "authorInitials": "RK",
+    "documentTitle": "Remote Work Policy",
+    "documentId": 11,
+    "timestamp": "2025-12-21T03:37:17.000Z"
+  },
+  {
+    "id": 22,
+    "action": "updated",
+    "author": "Rachel Kim",
+    "authorInitials": "RK",
+    "documentTitle": "Remote Work Policy",
+    "documentId": 11,
+    "timestamp": "2025-12-21T00:37:17.000Z"
+  },
+  {
+    "id": 23,
+    "action": "published",
+    "author": "David Park",
+    "authorInitials": "DP",
+    "documentTitle": "Incident Response Playbook",
+    "documentId": 12,
+    "timestamp": "2025-12-20T03:37:17.000Z"
+  },
+  {
+    "id": 24,
+    "action": "updated",
+    "author": "David Park",
+    "authorInitials": "DP",
+    "documentTitle": "Incident Response Playbook",
+    "documentId": 12,
+    "timestamp": "2025-12-20T00:37:17.000Z"
+  }
+]

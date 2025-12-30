@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Chen",
+    "initials": "SC",
+    "email": "sarah.chen@atlas.dev",
+    "role": "Senior Engineer",
+    "avatarColor": "#3b82f6"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Rivera",
+    "initials": "MR",
+    "email": "marcus.rivera@atlas.dev",
+    "role": "Product Manager",
+    "avatarColor": "#10b981"
+  },
+  {
+    "id": 3,
+    "name": "Alex Morgan",
+    "initials": "AM",
+    "email": "alex.morgan@atlas.dev",
+    "role": "UX Researcher",
+    "avatarColor": "#f59e0b"
+  },
+  {
+    "id": 4,
+    "name": "David Park",
+    "initials": "DP",
+    "email": "david.park@atlas.dev",
+    "role": "Security Engineer",
+    "avatarColor": "#ec4899"
+  },
+  {
+    "id": 5,
+    "name": "Emma Wilson",
+    "initials": "EW",
+    "email": "emma.wilson@atlas.dev",
+    "role": "Design Lead",
+    "avatarColor": "#8b5cf6"
+  },
+  {
+    "id": 6,
+    "name": "Rachel Kim",
+    "initials": "RK",
+    "email": "rachel.kim@atlas.dev",
+    "role": "Customer Success",
+    "avatarColor": "#06b6d4"
+  }
+]

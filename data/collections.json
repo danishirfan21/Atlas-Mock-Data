@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Engineering",
+    "description": "Technical documentation, API guides, and architecture decisions",
+    "icon": "📚",
+    "iconBg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+    "documentCount": 42,
+    "contributorCount": 8,
+    "createdAt": "2025-10-01T03:37:17.000Z",
+    "updatedAt": "2025-12-28T03:37:17.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Product",
+    "description": "Roadmaps, feature specs, and user research findings",
+    "icon": "⭐",
+    "iconBg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+    "documentCount": 28,
+    "contributorCount": 5,
+    "createdAt": "2025-10-11T03:37:17.000Z",
+    "updatedAt": "2025-12-29T22:37:17.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Design",
+    "description": "Design systems, UI patterns, and brand guidelines",
+    "icon": "🎨",
+    "iconBg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+    "documentCount": 19,
+    "contributorCount": 4,
+    "createdAt": "2025-10-21T03:37:17.000Z",
+    "updatedAt": "2025-12-27T03:37:17.000Z"
+  },
+  {
+    "id": 4,
+    "name": "People & Culture",
+    "description": "Onboarding guides, team processes, and company policies",
+    "icon": "👥",
+    "iconBg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+    "documentCount": 15,
+    "contributorCount": 3,
+    "createdAt": "2025-10-31T03:37:17.000Z",
+    "updatedAt": "2025-12-20T03:37:17.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Sales & Marketing",
+    "description": "Sales playbooks, marketing campaigns, and customer stories",
+    "icon": "💼",
+    "iconBg": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+    "documentCount": 33,
+    "contributorCount": 6,
+    "createdAt": "2025-11-10T03:37:17.000Z",
+    "updatedAt": "2025-12-29T03:37:17.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Legal & Compliance",
+    "description": "Contracts, policies, and regulatory documentation",
+    "icon": "⚖️",
+    "iconBg": "linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%)",
+    "documentCount": 12,
+    "contributorCount": 2,
+    "createdAt": "2025-11-20T03:37:17.000Z",
+    "updatedAt": "2025-12-23T03:37:17.000Z"
+  }
+]
