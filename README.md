@@ -4,29 +4,29 @@ Mock JSON data for the Atlas Knowledge Management System.
 
 ## 📦 Available Endpoints
 
-Base URL: `https://raw.githubusercontent.com/danishirfan21/atlas-mock-data/main/data/`
+Base URL: `https://raw.githubusercontent.com/danishirfan21/Atlas-Mock-Data/main/data/`
 
 ### Documents
 - **All Documents**: `documents.json`
-- **Example**: https://raw.githubusercontent.com/danishirfan21/atlas-mock-data/main/data/documents.json
+- **Example**: https://raw.githubusercontent.com/danishirfan21/Atlas-Mock-Data/main/data/documents.json
 
 ### Collections
 - **All Collections**: `collections.json`
-- **Example**: https://raw.githubusercontent.com/danishirfan21/atlas-mock-data/main/data/collections.json
+- **Example**: https://raw.githubusercontent.com/danishirfan21/Atlas-Mock-Data/main/data/collections.json
 
 ### Activities
 - **Activity Feed**: `activities.json`
-- **Example**: https://raw.githubusercontent.com/danishirfan21/atlas-mock-data/main/data/activities.json
+- **Example**: https://raw.githubusercontent.com/danishirfan21/Atlas-Mock-Data/main/data/activities.json
 
 ### Users
 - **All Users**: `users.json`
-- **Example**: https://raw.githubusercontent.com/danishirfan21/atlas-mock-data/main/data/users.json
+- **Example**: https://raw.githubusercontent.com/danishirfan21/Atlas-Mock-Data/main/data/users.json
 
 ## 🔧 Usage
 
 ### Fetch with JavaScript
 ```javascript
-const response = await fetch('https://raw.githubusercontent.com/danishirfan21/atlas-mock-data/main/data/documents.json');
+const response = await fetch('https://raw.githubusercontent.com/danishirfan21/Atlas-Mock-Data/main/data/documents.json');
 const documents = await response.json();
 ```
 
@@ -34,7 +34,7 @@ const documents = await response.json();
 ```typescript
 // src/app/api/documents/route.ts
 export async function GET() {
-  const res = await fetch('https://raw.githubusercontent.com/danishirfan21/atlas-mock-data/main/data/documents.json');
+  const res = await fetch('https://raw.githubusercontent.com/danishirfan21/Atlas-Mock-Data/main/data/documents.json');
   const data = await res.json();
   return Response.json(data);
 }
