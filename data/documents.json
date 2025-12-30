@@ -8,7 +8,8 @@
     "authorInitials": "SC",
     "updatedAt": "2025-12-30T01:37:17.000Z",
     "status": "Published",
-    "views": 287
+    "views": 287,
+    "collectionId": 1
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "authorInitials": "MR",
     "updatedAt": "2025-12-29T22:37:17.000Z",
     "status": "Draft",
-    "views": 142
+    "views": 142,
+    "collectionId": 2
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "authorInitials": "AM",
     "updatedAt": "2025-12-29T03:37:17.000Z",
     "status": "In Review",
-    "views": 98
+    "views": 98,
+    "collectionId": 2
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
     "authorInitials": "DP",
     "updatedAt": "2025-12-28T03:37:17.000Z",
     "status": "Published",
-    "views": 213
+    "views": 213,
+    "collectionId": 1
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
     "authorInitials": "EW",
     "updatedAt": "2025-12-27T03:37:17.000Z",
     "status": "Published",
-    "views": 342
+    "views": 342,
+    "collectionId": 3
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
     "authorInitials": "RK",
     "updatedAt": "2025-12-26T03:37:17.000Z",
     "status": "Draft",
-    "views": 76
+    "views": 76,
+    "collectionId": 2
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
     "authorInitials": "SC",
     "updatedAt": "2025-12-25T03:37:17.000Z",
     "status": "Published",
-    "views": 156
+    "views": 156,
+    "collectionId": 4
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
     "authorInitials": "MR",
     "updatedAt": "2025-12-24T03:37:17.000Z",
     "status": "Published",
-    "views": 203
+    "views": 203,
+    "collectionId": 4
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@
     "authorInitials": "DP",
     "updatedAt": "2025-12-23T03:37:17.000Z",
     "status": "Published",
-    "views": 178
+    "views": 178,
+    "collectionId": 1
   },
   {
     "id": 10,
@@ -107,7 +116,8 @@
     "authorInitials": "EW",
     "updatedAt": "2025-12-22T03:37:17.000Z",
     "status": "Draft",
-    "views": 89
+    "views": 89,
+    "collectionId": 3
   },
   {
     "id": 11,
@@ -118,7 +128,8 @@
     "authorInitials": "RK",
     "updatedAt": "2025-12-21T03:37:17.000Z",
     "status": "In Review",
-    "views": 267
+    "views": 267,
+    "collectionId": 4
   },
   {
     "id": 12,
@@ -129,6 +140,7 @@
     "authorInitials": "DP",
     "updatedAt": "2025-12-20T03:37:17.000Z",
     "status": "Published",
-    "views": 312
+    "views": 312,
+    "collectionId": 1
   }
 ]
